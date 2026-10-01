@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/pritamkayet338/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/pritamkayet338/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/pritamkayet338/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/pritamkayet338/leetcode/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pritamkayet338/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/pritamkayet338/leetcode/tree/master/0136-single-number) |
 ## Bit Manipulation
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/pritamkayet338/leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/pritamkayet338/leetcode/tree/master/0054-spiral-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/pritamkayet338/leetcode/tree/master/0049-group-anagrams) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/pritamkayet338/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
