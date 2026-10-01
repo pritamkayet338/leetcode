@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/pritamkayet338/leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/pritamkayet338/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/pritamkayet338/leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/pritamkayet338/leetcode/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pritamkayet338/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/pritamkayet338/leetcode/tree/master/0136-single-number) |
 ## Bit Manipulation
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pritamkayet338/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/pritamkayet338/leetcode/tree/master/0053-maximum-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/pritamkayet338/leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/pritamkayet338/leetcode/tree/master/0053-maximum-subarray) |
 ## Math
 |  |
 | ------- |
