@@ -100,4 +100,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/pritamkayet338/leetcode/tree/master/0056-merge-intervals) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/pritamkayet338/leetcode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/pritamkayet338/leetcode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/pritamkayet338/leetcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/pritamkayet338/leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
